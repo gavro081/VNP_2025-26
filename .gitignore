@@ -1,4 +1,3 @@
 .idea/
 aud/
-lab2_B/hotel_bookings.csv
-lab2_A/laptops.csv
+*.csv
